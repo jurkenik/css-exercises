@@ -1,0 +1,13 @@
+.zuti,
+.crni
+{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.crni{
+    background-color: black;
+    color: white;
+}
+.zuti{
+    background-color: yellow;
+}

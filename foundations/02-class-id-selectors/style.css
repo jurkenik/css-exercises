@@ -1,0 +1,19 @@
+.klasica {
+ background-color: #ff0000;
+ font-family:Verdana, DejaVu Sans, sans-serif;
+}
+
+.klasica2{
+    font-size: 24px;
+}
+
+#mrdanje {
+    color: #000fff;
+    font-size: 36px;
+}
+
+#mrdanje2 {
+    background-color: #09ee09;
+    font-size: 24px;
+    font-weight: bold;
+}
